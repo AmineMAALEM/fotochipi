@@ -44,6 +44,6 @@
    ```
 4. Run the application:
    ```bash 
-   streamlit run GUI_app.py
+   streamlit run GUI_project.py
    ```
 
